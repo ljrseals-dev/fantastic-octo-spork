@@ -1,0 +1,564 @@
+{
+  "tempo": 100,
+  "key_tonic": 0,
+  "key_mode": "major",
+  "sr": 44100,
+  "tracks": [
+    {
+      "name": "Lead",
+      "role": "lead",
+      "notes": [
+        {
+          "pitch": 60,
+          "start": 0,
+          "dur": 1.1,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 62,
+          "start": 0.6,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 64,
+          "start": 1.2,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lo"
+        },
+        {
+          "pitch": 67,
+          "start": 1.7999999999999998,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lee"
+        },
+        {
+          "pitch": 65,
+          "start": 2.9,
+          "dur": 1.1,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 64,
+          "start": 3.5,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lo"
+        },
+        {
+          "pitch": 62,
+          "start": 4.1,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 60,
+          "start": 4.7,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "loo"
+        }
+      ],
+      "settings": {
+        "level_db": 0,
+        "pan": 0.0,
+        "delay_ms": 0.0,
+        "reverb": 0.2,
+        "echo": 0.0,
+        "echo_ms": 280.0,
+        "mute": false,
+        "solo": false,
+        "timing_ms": 0.0,
+        "tuning_cents": 0.0,
+        "seed": 1,
+        "vibrato_depth_cents": 25.0,
+        "vibrato_rate_hz": 5.6,
+        "breath": 0.04,
+        "brightness": 0.5
+      },
+      "interval": "unison"
+    },
+    {
+      "name": "Harm High",
+      "role": "harmony",
+      "notes": [
+        {
+          "pitch": 64,
+          "start": 0,
+          "dur": 1.1,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 65,
+          "start": 0.6,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 67,
+          "start": 1.2,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lo"
+        },
+        {
+          "pitch": 71,
+          "start": 1.7999999999999998,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lee"
+        },
+        {
+          "pitch": 69,
+          "start": 2.9,
+          "dur": 1.1,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 67,
+          "start": 3.5,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lo"
+        },
+        {
+          "pitch": 65,
+          "start": 4.1,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 64,
+          "start": 4.7,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "loo"
+        }
+      ],
+      "settings": {
+        "level_db": -4,
+        "pan": -0.35,
+        "delay_ms": 0.0,
+        "reverb": 0.2,
+        "echo": 0.0,
+        "echo_ms": 280.0,
+        "mute": false,
+        "solo": false,
+        "timing_ms": 12.0,
+        "tuning_cents": 8.0,
+        "seed": 2,
+        "vibrato_depth_cents": 25.0,
+        "vibrato_rate_hz": 5.6,
+        "breath": 0.04,
+        "brightness": 0.5
+      },
+      "interval": "3rd_up"
+    },
+    {
+      "name": "Harm Mid",
+      "role": "harmony",
+      "notes": [
+        {
+          "pitch": 67,
+          "start": 0,
+          "dur": 1.1,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 69,
+          "start": 0.6,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 71,
+          "start": 1.2,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lo"
+        },
+        {
+          "pitch": 74,
+          "start": 1.7999999999999998,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lee"
+        },
+        {
+          "pitch": 72,
+          "start": 2.9,
+          "dur": 1.1,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 71,
+          "start": 3.5,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lo"
+        },
+        {
+          "pitch": 69,
+          "start": 4.1,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 67,
+          "start": 4.7,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "loo"
+        }
+      ],
+      "settings": {
+        "level_db": -5,
+        "pan": 0.35,
+        "delay_ms": 0.0,
+        "reverb": 0.2,
+        "echo": 0.0,
+        "echo_ms": 280.0,
+        "mute": false,
+        "solo": false,
+        "timing_ms": 12.0,
+        "tuning_cents": 8.0,
+        "seed": 3,
+        "vibrato_depth_cents": 25.0,
+        "vibrato_rate_hz": 5.6,
+        "breath": 0.04,
+        "brightness": 0.5
+      },
+      "interval": "5th_up"
+    },
+    {
+      "name": "Harm Low",
+      "role": "harmony",
+      "notes": [
+        {
+          "pitch": 57,
+          "start": 0,
+          "dur": 1.1,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 59,
+          "start": 0.6,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 60,
+          "start": 1.2,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lo"
+        },
+        {
+          "pitch": 64,
+          "start": 1.7999999999999998,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lee"
+        },
+        {
+          "pitch": 62,
+          "start": 2.9,
+          "dur": 1.1,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 60,
+          "start": 3.5,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lo"
+        },
+        {
+          "pitch": 59,
+          "start": 4.1,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 57,
+          "start": 4.7,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "loo"
+        }
+      ],
+      "settings": {
+        "level_db": -5,
+        "pan": 0.0,
+        "delay_ms": 0.0,
+        "reverb": 0.2,
+        "echo": 0.0,
+        "echo_ms": 280.0,
+        "mute": false,
+        "solo": false,
+        "timing_ms": 12.0,
+        "tuning_cents": 8.0,
+        "seed": 4,
+        "vibrato_depth_cents": 25.0,
+        "vibrato_rate_hz": 5.6,
+        "breath": 0.04,
+        "brightness": 0.5
+      },
+      "interval": "3rd_low"
+    },
+    {
+      "name": "Double 1",
+      "role": "double",
+      "notes": [
+        {
+          "pitch": 60,
+          "start": 0,
+          "dur": 1.1,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 62,
+          "start": 0.6,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 64,
+          "start": 1.2,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lo"
+        },
+        {
+          "pitch": 67,
+          "start": 1.7999999999999998,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lee"
+        },
+        {
+          "pitch": 65,
+          "start": 2.9,
+          "dur": 1.1,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 64,
+          "start": 3.5,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lo"
+        },
+        {
+          "pitch": 62,
+          "start": 4.1,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 60,
+          "start": 4.7,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "loo"
+        }
+      ],
+      "settings": {
+        "level_db": -6.0,
+        "pan": -0.8,
+        "delay_ms": 0.0,
+        "reverb": 0.15,
+        "echo": 0.0,
+        "echo_ms": 280.0,
+        "mute": false,
+        "solo": false,
+        "timing_ms": 18.0,
+        "tuning_cents": 12.0,
+        "seed": 100,
+        "vibrato_depth_cents": 25.0,
+        "vibrato_rate_hz": 5.6,
+        "breath": 0.04,
+        "brightness": 0.5
+      },
+      "interval": "unison"
+    },
+    {
+      "name": "Double 2",
+      "role": "double",
+      "notes": [
+        {
+          "pitch": 60,
+          "start": 0,
+          "dur": 1.1,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 62,
+          "start": 0.6,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 64,
+          "start": 1.2,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lo"
+        },
+        {
+          "pitch": 67,
+          "start": 1.7999999999999998,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lee"
+        },
+        {
+          "pitch": 65,
+          "start": 2.9,
+          "dur": 1.1,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 64,
+          "start": 3.5,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "lo"
+        },
+        {
+          "pitch": 62,
+          "start": 4.1,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "la"
+        },
+        {
+          "pitch": 60,
+          "start": 4.7,
+          "dur": 0.55,
+          "vel": 0.8,
+          "lyric": "loo"
+        }
+      ],
+      "settings": {
+        "level_db": -6.0,
+        "pan": 0.8,
+        "delay_ms": 0.0,
+        "reverb": 0.15,
+        "echo": 0.0,
+        "echo_ms": 280.0,
+        "mute": false,
+        "solo": false,
+        "timing_ms": 18.0,
+        "tuning_cents": 12.0,
+        "seed": 101,
+        "vibrato_depth_cents": 25.0,
+        "vibrato_rate_hz": 5.6,
+        "breath": 0.04,
+        "brightness": 0.5
+      },
+      "interval": "unison"
+    },
+    {
+      "name": "BG Pad",
+      "role": "background",
+      "notes": [
+        {
+          "pitch": 67,
+          "start": 0,
+          "dur": 1.1,
+          "vel": 0.48,
+          "lyric": "oo"
+        },
+        {
+          "pitch": 72,
+          "start": 2.9,
+          "dur": 1.1,
+          "vel": 0.48,
+          "lyric": "oo"
+        }
+      ],
+      "settings": {
+        "level_db": -10,
+        "pan": -0.5,
+        "delay_ms": 0.0,
+        "reverb": 0.7,
+        "echo": 0.0,
+        "echo_ms": 280.0,
+        "mute": false,
+        "solo": false,
+        "timing_ms": 15,
+        "tuning_cents": 10,
+        "seed": 200,
+        "vibrato_depth_cents": 16.5,
+        "vibrato_rate_hz": 5.6,
+        "breath": 0.45,
+        "brightness": 0.5
+      },
+      "interval": "5th_up"
+    },
+    {
+      "name": "Ad-libs",
+      "role": "adlib",
+      "notes": [
+        {
+          "pitch": 83,
+          "start": 2.4999999999999996,
+          "dur": 0.5,
+          "vel": 0.7,
+          "lyric": "oh"
+        },
+        {
+          "pitch": 76,
+          "start": 5.4,
+          "dur": 0.5,
+          "vel": 0.7,
+          "lyric": "oh"
+        }
+      ],
+      "settings": {
+        "level_db": -9,
+        "pan": 0.55,
+        "delay_ms": 0.0,
+        "reverb": 0.5,
+        "echo": 0.4,
+        "echo_ms": 280.0,
+        "mute": false,
+        "solo": false,
+        "timing_ms": 10,
+        "tuning_cents": 0.0,
+        "seed": 201,
+        "vibrato_depth_cents": 25.0,
+        "vibrato_rate_hz": 5.6,
+        "breath": 0.04,
+        "brightness": 0.5
+      },
+      "interval": "response"
+    }
+  ]
+}
